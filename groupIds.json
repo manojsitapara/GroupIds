@@ -1,5 +1,6 @@
 {
 	"groupIds": ["120363046505143149@g.us", "120363039825353579@g.us"],
 	"custom_url": ["https://asia-south2-plasma-sol-392104.cloudfunctions.net/function-1?url="],
-	"enableLinkPreview": false
+	"enableLinkPreview": false,
+	"redisUrl": "rediss://default:AVNS_Qou2jF2cy1DQA3FXWDP@redis-f12befe-manojo-d640.aivencloud.com:19815"
 }
