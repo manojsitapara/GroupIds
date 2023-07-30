@@ -2,5 +2,5 @@
 	"groupIds": ["120363046505143149@g.us", "120363039825353579@g.us"],
 	"custom_url": ["https://asia-south2-plasma-sol-392104.cloudfunctions.net/function-2?url=","https://asia-south2-plasma-sol-392104.cloudfunctions.net/function-3?url="],
 	"enableLinkPreview": true
-	"beta_user":['1', '42', '528', '529', '267', '333', '79', '369', '2', '177', '530', '45', '606']
+	"beta_user":["1", "42", "52", "529", "267", "333", "79", "369", "2", "177", "530", "45", "606"]
 }
