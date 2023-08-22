@@ -6,6 +6,6 @@
 		"https://asia-south2-plasma-sol-392104.cloudfunctions.net/function-3?url=",
 		"https://asia-south2-plasma-sol-392104.cloudfunctions.net/function-4?url="],
 	"enableLinkPreviewGlobally": true,
-	"enableLinkPreviewForEveryOne": false,
+	"enableLinkPreviewForEveryOne": true,
 	"beta_user":["1", "42", "52", "529", "267", "333", "79", "369", "2", "177", "530", "45", "606"]
 }
