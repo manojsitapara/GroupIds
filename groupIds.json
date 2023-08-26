@@ -17,6 +17,8 @@
 	"enableLinkPreviewForEveryOne": false,
 	"urlTimeOut": 10000,
 	"tokenTimeOut": 10000,
+	"moreGroupsDelayTime": 600,
+	"lessGroupsDelayTime": 300,
 	"beta_user":["1", "42", "52", "529", "267", "333", "79", "369", "2", "177", "530", "45", "606"],
 	"tokens": ["f24d38da453ef0ce7cc493b95dc8e047",
 		"65463438fe1b313e96baf5de0c137180",
