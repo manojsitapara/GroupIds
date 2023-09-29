@@ -20,6 +20,7 @@
 		"https://grabber-git-main-manojoffer01-gmailcom.vercel.app/api?url="],
 	"enableLinkPreviewGlobally": true,
 	"enableLinkPreviewForEveryOne": false,
+	"isSaleTime": false,
 	"urlTimeOut": 7000,
 	"tokenTimeOut": 7000,
 	"moreGroupsDelayTime": 600,
