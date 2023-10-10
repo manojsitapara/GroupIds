@@ -20,7 +20,7 @@
 		"https://owa-meta-grabber-main-eight.vercel.app/api?url=",
 		"https://owa-meta-grabber-eight.vercel.app/api?url=",
 		"https://grabber-git-main-manojoffer01-gmailcom.vercel.app/api?url="],
-	"enableLinkPreviewGlobally": true,
+	"enableLinkPreviewGlobally": false,
 	"enableLinkPreviewForEveryOne": false,
 	"isSaleTime": false,
 	"urlTimeOut": 10000,
