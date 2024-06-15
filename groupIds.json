@@ -15,6 +15,7 @@
 		],
 	"enableLinkPreviewGlobally": true,
 	"myurls": ["ItHgDV4csZT7IA4:iugEENhooOFJjGd@103.79.49.223:42282"],
+	"shouldUseProxy": false,
 	"enableLinkPreviewForEveryOne": false,
 	"isSaleTime": false,
 	"urlTimeOut": 13000,
