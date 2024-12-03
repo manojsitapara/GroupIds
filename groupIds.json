@@ -11,7 +11,9 @@
 		"https://link.openwa.cloud/api?url="],
 	"premium_url": ["https://asia-south2-teak-radio-442112-p3.cloudfunctions.net/function-7?url=",
 		"https://asia-south2-teak-radio-442112-p3.cloudfunctions.net/function-6?url=",
-		"https://asia-south1-teak-radio-442112-p3.cloudfunctions.net/function-8?url="
+		"https://asia-south1-teak-radio-442112-p3.cloudfunctions.net/function-8?url=",
+		"https://9839sr0lil.execute-api.ap-south-1.amazonaws.com/default/linkpreview1?url=",
+		"https://jqz5fdgsoi.execute-api.ap-south-1.amazonaws.com/default/linkpreview?url="
 		],
 	"enableLinkPreviewGlobally": true,
 	"myurls": ["ItHgDV4csZT7IA4:iugEENhooOFJjGd@103.79.49.223:42282"],
