@@ -1,6 +1,13 @@
 {
 	"groupIds": ["120363046505143149@g.us", "120363039825353579@g.us", "120363161560189546@g.us", "120363046710105612@g.us", "120363302578522966@g.us","120363368545274498@g.us","120363370855822865@g.us", "120363369240065584@g.us","120363302578522966@g.us", "120363046505143149@g.us","120363327077791646@g.us"],
 	"custom_url": [
+		"https://eppun806ch.execute-api.ap-northeast-1.amazonaws.com/default/jenishdandiwatokiyo?url=",
+		"https://l9cdhgcqd0.execute-api.ap-south-1.amazonaws.com/default/preview1?url=",
+		"https://ow2dib93b9.execute-api.ap-southeast-1.amazonaws.com/default/jenishdandiwalasingapore?url=",
+		"https://8p8s1fgsl5.execute-api.ap-northeast-2.amazonaws.com/default/jenishdandiwalaseoul?url=",
+		"https://srwr5ycmzd.execute-api.ap-northeast-3.amazonaws.com/default/jenishdandiwalaosaka?url=",
+		"https://q63mbc995g.execute-api.ap-southeast-2.amazonaws.com/default/jenishdandiwalasydney?url=",
+		"https://utsij45ac7.execute-api.eu-west-2.amazonaws.com/default/jenishdandiwalalondon?url="
 		"https://asia-south2-teak-radio-442112-p3.cloudfunctions.net/function-1?url=",
 		"https://asia-south1-teak-radio-442112-p3.cloudfunctions.net/function-2?url=",
 		"https://asia-south2-teak-radio-442112-p3.cloudfunctions.net/function-3?url=",
