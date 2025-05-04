@@ -43,7 +43,12 @@
 		"https://2vrcsu921m.execute-api.ap-southeast-1.amazonaws.com/default/payasadeal98Singapore?url=",
 		"https://fotdu1jcpc.execute-api.ap-south-1.amazonaws.com/default/pyasadeal98Mumbai?url=",
 		"https://9839sr0lil.execute-api.ap-south-1.amazonaws.com/default/linkpreview1?url=",
-		"https://jqz5fdgsoi.execute-api.ap-south-1.amazonaws.com/default/linkpreview?url="
+		"https://jqz5fdgsoi.execute-api.ap-south-1.amazonaws.com/default/linkpreview?url=",
+		"https://5qup3pqemc.execute-api.ap-south-1.amazonaws.com/default/broadwayc242Mumbai?url=",
+		"https://xz8tq4ylc1.execute-api.ap-northeast-3.amazonaws.com/default/broadwayc242osaka?url=",
+		"https://try5aru321.execute-api.ap-northeast-2.amazonaws.com/default/broadwayc242seoul?url=",
+		"https://tqogjx3t49.execute-api.ap-southeast-1.amazonaws.com/default/broadwayc242singapore?url=",
+		"https://iz9ggb93ob.execute-api.ap-southeast-2.amazonaws.com/default/broadwayc242syndney?url="
 		],
 	"enableLinkPreviewGlobally": true,
 	"myurls": ["ItHgDV4csZT7IA4:iugEENhooOFJjGd@103.79.49.223:42282"],
