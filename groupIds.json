@@ -55,7 +55,7 @@
 	"shouldUseProxy": false,
 	"enableLinkPreviewForEveryOne": false,
 	"isSaleTime": false,
-	"urlTimeOut": 13000,
+	"urlTimeOut": 20000,
 	"tokenTimeOut": 13000,
 	"moreGroupsDelayTime": 800,
 	"lessGroupsDelayTime": 600,
